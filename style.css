@@ -1,0 +1,39 @@
+.main{
+    height: 50px;
+    max-width: 1000px;
+    background-color: white;
+    display: flex;
+}
+
+.card-button{
+    background-color: rgb(100, 120, 246);
+    color: aliceblue;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 50%;
+    font-size: large;
+    margin-top: none;
+}
+
+.heading-1{
+    max-width: 300px;
+    margin-left: 20px;
+    font-size: 40px;
+    margin-top: 0;
+}
+.heading-2{
+    max-width: 300px;
+    margin-left: 300px;
+    font-size: 25px;
+}
+.heading-3{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    margin-top: 1;
+}
+.headings{
+    display: flex;
+    margin-left: 40px;
+    color: grey;
+}
